@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k2p8pvusvw6w89ec?svg=true)](https://ci.appveyor.com/project/babka40000/js-hw-obj3)
